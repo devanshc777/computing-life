@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+.playwright-mcp/
+
+# Benchmark output. The shipped copy lives in web/data/benchmark.json.
+results/
+
+# Visual references are other artists' work: kept locally for reference, never redistributed.
+docs/visual-refs/

@@ -1,0 +1,13 @@
+{"target":"LWSS","algo":"anneal","run":0,"hit":true,"firstHitAt":4,"bestFit":1}
+{"target":"LWSS","algo":"anneal","run":1,"hit":true,"firstHitAt":67,"bestFit":1}
+{"target":"LWSS","algo":"anneal","run":2,"hit":true,"firstHitAt":9,"bestFit":1}
+{"target":"LWSS","algo":"anneal","run":3,"hit":true,"firstHitAt":23,"bestFit":1}
+{"target":"LWSS","algo":"anneal","run":4,"hit":true,"firstHitAt":6,"bestFit":1}
+{"target":"LWSS","algo":"anneal","run":5,"hit":true,"firstHitAt":97,"bestFit":1}
+{"target":"LWSS","algo":"anneal","run":6,"hit":true,"firstHitAt":57,"bestFit":1}
+{"target":"LWSS","algo":"anneal","run":7,"hit":true,"firstHitAt":218,"bestFit":1}
+{"target":"LWSS","algo":"anneal","run":8,"hit":true,"firstHitAt":64,"bestFit":1}
+{"target":"LWSS","algo":"anneal","run":9,"hit":true,"firstHitAt":27,"bestFit":1}
+{"target":"LWSS","algo":"anneal","run":10,"hit":true,"firstHitAt":199,"bestFit":1}
+{"target":"LWSS","algo":"anneal","run":11,"hit":true,"firstHitAt":45,"bestFit":1}
+SUMMARY LWSS anneal budget=400 runs=12 hits=12/12 medianFirstHit=57 meanBestFit=1.000 secs=256

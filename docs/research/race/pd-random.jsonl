@@ -1,0 +1,9 @@
+{"target":"pentadecathlon","algo":"random","run":0,"hit":false,"firstHitAt":null,"bestFit":0.94}
+{"target":"pentadecathlon","algo":"random","run":1,"hit":true,"firstHitAt":932,"bestFit":1}
+{"target":"pentadecathlon","algo":"random","run":2,"hit":false,"firstHitAt":null,"bestFit":0.94}
+{"target":"pentadecathlon","algo":"random","run":3,"hit":false,"firstHitAt":null,"bestFit":0.96}
+{"target":"pentadecathlon","algo":"random","run":4,"hit":false,"firstHitAt":null,"bestFit":0.96}
+{"target":"pentadecathlon","algo":"random","run":5,"hit":false,"firstHitAt":null,"bestFit":0.94}
+{"target":"pentadecathlon","algo":"random","run":6,"hit":false,"firstHitAt":null,"bestFit":0.96}
+{"target":"pentadecathlon","algo":"random","run":7,"hit":false,"firstHitAt":null,"bestFit":0.96}
+SUMMARY pentadecathlon random budget=1500 runs=8 hits=1/8 medianFirstHit=932 meanBestFit=0.958 secs=1563

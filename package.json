@@ -1,0 +1,15 @@
+{
+  "name": "computing-life",
+  "version": "1.0.0",
+  "description": "Genetic algorithms, hill climbing and simulated annealing race to build Game of Life objects from random seeds.",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "author": "Devansh Chowdhary",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node cli/serve.mjs",
+    "test": "node --test tests/engine.test.js tests/ga-operators.test.js",
+    "bench": "node cli/run-experiments.mjs --runs 20 --budget 2000"
+  }
+}

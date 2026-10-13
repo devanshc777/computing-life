@@ -1,0 +1,9 @@
+{"target":"HWSS","algo":"ga","run":0,"hit":true,"firstHitAt":413,"bestFit":1}
+{"target":"HWSS","algo":"ga","run":1,"hit":true,"firstHitAt":244,"bestFit":1}
+{"target":"HWSS","algo":"ga","run":2,"hit":false,"firstHitAt":null,"bestFit":0.981}
+{"target":"HWSS","algo":"ga","run":3,"hit":false,"firstHitAt":null,"bestFit":0.981}
+{"target":"HWSS","algo":"ga","run":4,"hit":true,"firstHitAt":479,"bestFit":1}
+{"target":"HWSS","algo":"ga","run":5,"hit":true,"firstHitAt":54,"bestFit":1}
+{"target":"HWSS","algo":"ga","run":6,"hit":false,"firstHitAt":null,"bestFit":0.981}
+{"target":"HWSS","algo":"ga","run":7,"hit":true,"firstHitAt":253,"bestFit":1}
+SUMMARY HWSS ga budget=1500 runs=8 hits=5/8 medianFirstHit=253 meanBestFit=0.993 secs=977

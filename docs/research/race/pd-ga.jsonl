@@ -1,0 +1,9 @@
+{"target":"pentadecathlon","algo":"ga","run":0,"hit":false,"firstHitAt":null,"bestFit":0.96}
+{"target":"pentadecathlon","algo":"ga","run":1,"hit":false,"firstHitAt":null,"bestFit":0.94}
+{"target":"pentadecathlon","algo":"ga","run":2,"hit":false,"firstHitAt":null,"bestFit":0.94}
+{"target":"pentadecathlon","algo":"ga","run":3,"hit":true,"firstHitAt":689,"bestFit":1}
+{"target":"pentadecathlon","algo":"ga","run":4,"hit":false,"firstHitAt":null,"bestFit":0.94}
+{"target":"pentadecathlon","algo":"ga","run":5,"hit":false,"firstHitAt":null,"bestFit":0.94}
+{"target":"pentadecathlon","algo":"ga","run":6,"hit":false,"firstHitAt":null,"bestFit":0.94}
+{"target":"pentadecathlon","algo":"ga","run":7,"hit":false,"firstHitAt":null,"bestFit":0.94}
+SUMMARY pentadecathlon ga budget=1500 runs=8 hits=1/8 medianFirstHit=689 meanBestFit=0.950 secs=1764

@@ -1,0 +1,13 @@
+{"target":"LWSS","algo":"ga","run":0,"hit":true,"firstHitAt":10,"bestFit":1}
+{"target":"LWSS","algo":"ga","run":1,"hit":true,"firstHitAt":164,"bestFit":1}
+{"target":"LWSS","algo":"ga","run":2,"hit":true,"firstHitAt":45,"bestFit":1}
+{"target":"LWSS","algo":"ga","run":3,"hit":true,"firstHitAt":293,"bestFit":1}
+{"target":"LWSS","algo":"ga","run":4,"hit":true,"firstHitAt":17,"bestFit":1}
+{"target":"LWSS","algo":"ga","run":5,"hit":true,"firstHitAt":242,"bestFit":1}
+{"target":"LWSS","algo":"ga","run":6,"hit":true,"firstHitAt":7,"bestFit":1}
+{"target":"LWSS","algo":"ga","run":7,"hit":true,"firstHitAt":128,"bestFit":1}
+{"target":"LWSS","algo":"ga","run":8,"hit":true,"firstHitAt":57,"bestFit":1}
+{"target":"LWSS","algo":"ga","run":9,"hit":true,"firstHitAt":67,"bestFit":1}
+{"target":"LWSS","algo":"ga","run":10,"hit":true,"firstHitAt":19,"bestFit":1}
+{"target":"LWSS","algo":"ga","run":11,"hit":true,"firstHitAt":26,"bestFit":1}
+SUMMARY LWSS ga budget=400 runs=12 hits=12/12 medianFirstHit=57 meanBestFit=1.000 secs=269

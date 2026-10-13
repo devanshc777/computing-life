@@ -1,0 +1,9 @@
+{"target":"HWSS","algo":"random","run":0,"hit":false,"firstHitAt":null,"bestFit":0.981}
+{"target":"HWSS","algo":"random","run":1,"hit":false,"firstHitAt":null,"bestFit":0.981}
+{"target":"HWSS","algo":"random","run":2,"hit":true,"firstHitAt":713,"bestFit":1}
+{"target":"HWSS","algo":"random","run":3,"hit":false,"firstHitAt":null,"bestFit":0.981}
+{"target":"HWSS","algo":"random","run":4,"hit":false,"firstHitAt":null,"bestFit":0.981}
+{"target":"HWSS","algo":"random","run":5,"hit":false,"firstHitAt":null,"bestFit":0.981}
+{"target":"HWSS","algo":"random","run":6,"hit":false,"firstHitAt":null,"bestFit":0.981}
+{"target":"HWSS","algo":"random","run":7,"hit":false,"firstHitAt":null,"bestFit":0.981}
+SUMMARY HWSS random budget=1500 runs=8 hits=1/8 medianFirstHit=713 meanBestFit=0.983 secs=891

@@ -1,0 +1,9 @@
+{"target":"HWSS","algo":"hill","run":0,"hit":false,"firstHitAt":null,"bestFit":0.981}
+{"target":"HWSS","algo":"hill","run":1,"hit":true,"firstHitAt":259,"bestFit":1}
+{"target":"HWSS","algo":"hill","run":2,"hit":true,"firstHitAt":982,"bestFit":1}
+{"target":"HWSS","algo":"hill","run":3,"hit":true,"firstHitAt":1127,"bestFit":1}
+{"target":"HWSS","algo":"hill","run":4,"hit":false,"firstHitAt":null,"bestFit":0.981}
+{"target":"HWSS","algo":"hill","run":5,"hit":true,"firstHitAt":461,"bestFit":1}
+{"target":"HWSS","algo":"hill","run":6,"hit":true,"firstHitAt":1256,"bestFit":1}
+{"target":"HWSS","algo":"hill","run":7,"hit":false,"firstHitAt":null,"bestFit":0.981}
+SUMMARY HWSS hill budget=1500 runs=8 hits=5/8 medianFirstHit=982 meanBestFit=0.993 secs=925

@@ -1,0 +1,9 @@
+{"target":"pentadecathlon","algo":"anneal","run":0,"hit":false,"firstHitAt":null,"bestFit":0.94}
+{"target":"pentadecathlon","algo":"anneal","run":1,"hit":false,"firstHitAt":null,"bestFit":0.96}
+{"target":"pentadecathlon","algo":"anneal","run":2,"hit":true,"firstHitAt":185,"bestFit":1}
+{"target":"pentadecathlon","algo":"anneal","run":3,"hit":true,"firstHitAt":290,"bestFit":1}
+{"target":"pentadecathlon","algo":"anneal","run":4,"hit":false,"firstHitAt":null,"bestFit":0.96}
+{"target":"pentadecathlon","algo":"anneal","run":5,"hit":false,"firstHitAt":null,"bestFit":0.96}
+{"target":"pentadecathlon","algo":"anneal","run":6,"hit":false,"firstHitAt":null,"bestFit":0.94}
+{"target":"pentadecathlon","algo":"anneal","run":7,"hit":true,"firstHitAt":1077,"bestFit":1}
+SUMMARY pentadecathlon anneal budget=1500 runs=8 hits=3/8 medianFirstHit=290 meanBestFit=0.970 secs=1619

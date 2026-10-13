@@ -1,0 +1,9 @@
+{"target":"HWSS","algo":"anneal","run":0,"hit":false,"firstHitAt":null,"bestFit":0.981}
+{"target":"HWSS","algo":"anneal","run":1,"hit":true,"firstHitAt":21,"bestFit":1}
+{"target":"HWSS","algo":"anneal","run":2,"hit":false,"firstHitAt":null,"bestFit":0.981}
+{"target":"HWSS","algo":"anneal","run":3,"hit":true,"firstHitAt":1014,"bestFit":1}
+{"target":"HWSS","algo":"anneal","run":4,"hit":true,"firstHitAt":111,"bestFit":1}
+{"target":"HWSS","algo":"anneal","run":5,"hit":true,"firstHitAt":80,"bestFit":1}
+{"target":"HWSS","algo":"anneal","run":6,"hit":false,"firstHitAt":null,"bestFit":0.981}
+{"target":"HWSS","algo":"anneal","run":7,"hit":false,"firstHitAt":null,"bestFit":0.981}
+SUMMARY HWSS anneal budget=1500 runs=8 hits=4/8 medianFirstHit=111 meanBestFit=0.990 secs=912

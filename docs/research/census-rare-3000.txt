@@ -1,0 +1,13 @@
+grid 64x64 torus · seed 16x16 @ density 0.5 · cap 1000 · scan every 8 steps
+throughput (no detection): 96.4 evals/sec
+census: 3000 soups in 117.6s (25.5 evals/sec with detection)
+mean lifespan 476 steps · hit the cap: 602/3000
+templates per object: beacon=4 LWSS=16 MWSS=16 HWSS=16 pulsar=3 pentadecathlon=30
+
+object           soups-with-it   rate        ~evals-to-first-hit   median-first-step
+beacon                174        0.0580             17            376
+LWSS                   16        0.0053            188            424
+pulsar                 10        0.0033            300            464
+MWSS                    6        0.0020            500            720
+HWSS                    2        0.0007           1500            608
+pentadecathlon          0        0.0000         > 3000            -

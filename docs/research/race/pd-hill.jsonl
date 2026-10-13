@@ -1,0 +1,9 @@
+{"target":"pentadecathlon","algo":"hill","run":0,"hit":false,"firstHitAt":null,"bestFit":0.94}
+{"target":"pentadecathlon","algo":"hill","run":1,"hit":false,"firstHitAt":null,"bestFit":0.96}
+{"target":"pentadecathlon","algo":"hill","run":2,"hit":false,"firstHitAt":null,"bestFit":0.96}
+{"target":"pentadecathlon","algo":"hill","run":3,"hit":false,"firstHitAt":null,"bestFit":0.94}
+{"target":"pentadecathlon","algo":"hill","run":4,"hit":false,"firstHitAt":null,"bestFit":0.94}
+{"target":"pentadecathlon","algo":"hill","run":5,"hit":false,"firstHitAt":null,"bestFit":0.94}
+{"target":"pentadecathlon","algo":"hill","run":6,"hit":false,"firstHitAt":null,"bestFit":0.96}
+{"target":"pentadecathlon","algo":"hill","run":7,"hit":false,"firstHitAt":null,"bestFit":0.94}
+SUMMARY pentadecathlon hill budget=1500 runs=8 hits=0/8 medianFirstHit=- meanBestFit=0.948 secs=1616

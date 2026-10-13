@@ -1,0 +1,13 @@
+{"target":"LWSS","algo":"random","run":0,"hit":true,"firstHitAt":10,"bestFit":1}
+{"target":"LWSS","algo":"random","run":1,"hit":true,"firstHitAt":58,"bestFit":1}
+{"target":"LWSS","algo":"random","run":2,"hit":true,"firstHitAt":34,"bestFit":1}
+{"target":"LWSS","algo":"random","run":3,"hit":true,"firstHitAt":140,"bestFit":1}
+{"target":"LWSS","algo":"random","run":4,"hit":true,"firstHitAt":17,"bestFit":1}
+{"target":"LWSS","algo":"random","run":5,"hit":true,"firstHitAt":162,"bestFit":1}
+{"target":"LWSS","algo":"random","run":6,"hit":true,"firstHitAt":7,"bestFit":1}
+{"target":"LWSS","algo":"random","run":7,"hit":true,"firstHitAt":165,"bestFit":1}
+{"target":"LWSS","algo":"random","run":8,"hit":true,"firstHitAt":54,"bestFit":1}
+{"target":"LWSS","algo":"random","run":9,"hit":true,"firstHitAt":204,"bestFit":1}
+{"target":"LWSS","algo":"random","run":10,"hit":true,"firstHitAt":19,"bestFit":1}
+{"target":"LWSS","algo":"random","run":11,"hit":true,"firstHitAt":95,"bestFit":1}
+SUMMARY LWSS random budget=400 runs=12 hits=12/12 medianFirstHit=58 meanBestFit=1.000 secs=249
