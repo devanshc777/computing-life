@@ -1,0 +1,7 @@
+# Only the browser app and the pure modules it imports are uploaded.
+/*
+!/web/
+!/engine/
+!/search/
+!/experiment/
+!/_redirects

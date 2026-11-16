@@ -10,6 +10,7 @@
   "scripts": {
     "start": "node cli/serve.mjs",
     "test": "node --test tests/engine.test.js tests/ga-operators.test.js",
-    "bench": "node cli/run-experiments.mjs --runs 20 --budget 2000"
+    "bench": "node cli/run-experiments.mjs --runs 20 --budget 2000",
+    "deploy": "npx wrangler deploy"
   }
 }

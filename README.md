@@ -9,6 +9,8 @@ a heavyweight spaceship, a pentadecathlon, or a shape you draw yourself.
 Built as a course project for **AI & Soft Computing** (2026). The whole thing is plain JavaScript with no build
 step and no dependencies. It runs in the browser for the live demo, and in Node for the benchmark.
 
+**Live:** https://computing-life.devanshchowdhary03.workers.dev
+
 ![Computing Life title screen](docs/screenshots/title.png)
 
 ---
@@ -141,6 +143,12 @@ cp results/benchmark.json web/data/   # ship it to the Results page
 ```
 
 The benchmark uses every core but two and saturates the CPU, so don't run it during a demo.
+
+### Deploy
+
+`npm run deploy` publishes to Cloudflare Workers static assets (`wrangler.jsonc`). The files are served as they are,
+with no build. The assets root is the repo root, because `web/` imports `../engine`, `../search` and `../experiment`.
+`.assetsignore` uploads only those four folders, and `_redirects` sends `/` to `/web/`, as `cli/serve.mjs` does locally.
 
 ## How it is built
 

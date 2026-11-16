@@ -7,3 +7,6 @@ results/
 
 # Visual references are other artists' work: kept locally for reference, never redistributed.
 docs/visual-refs/
+
+# Wrangler local cache.
+.wrangler/

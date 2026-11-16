@@ -1,0 +1,9 @@
+// Static deploy: the app is plain ES modules served as-is, the same way cli/serve.mjs serves them locally.
+// The assets root is the repo root because web/ imports ../engine, ../search and ../experiment.
+// .assetsignore whitelists only those four folders; _redirects sends / to /web/.
+// Deploy with `npm run deploy`.
+{
+  "name": "computing-life",
+  "compatibility_date": "2026-11-16",
+  "assets": { "directory": "." }
+}

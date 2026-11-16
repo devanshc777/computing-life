@@ -13,6 +13,8 @@ random search as rivals on an equal evaluation budget.
 ## Status (2026-10-14)
 Done: engine, detection, evaluator, all 5 searchers, experiment CLI, full web app, 20-run benchmark shipped in
 `web/data/benchmark.json`. Demo script and viva Q&A: `docs/VIVA.md`.
+Deployed 2026-11-16: https://computing-life.devanshchowdhary03.workers.dev (`npm run deploy`; whitelist in
+`.assetsignore`, `/` → `/web/` via `_redirects`). Verified live: a GA single run on the heavyweight spaceship ran with 0 console errors.
 
 ## Layout
 ```
